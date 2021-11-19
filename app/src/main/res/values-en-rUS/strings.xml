@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSara_Formulario</string>
+    <string name="Form">Form</string>
+    <string name="Datos">Enter data:</string>
+    <string name="Nom">Name.</string>
+    <string name="Fecha">Birth date.</string>
+    <string name="Num">Count number.</string>
+    <string name="Correo">E-mail address.</string>
+    <string name="Val">Check information</string>
+    <string name="hint">Number</string>
+    <string name="ingresa_valor">Invalid data.</string>
+    <string name="requiere_inf">"Information required "</string>
+    <string name="requiere_nombre">A name is required</string>
+    <string name="hint_name">Insert name</string>
+    <string name="hint_date">Select date</string>
+    <string name="hint_email">Insert email address</string>
+    <string name="btnemail">Validate email</string>
+    <string name="boton_enviar">Sent</string>
+    <string name="hint_name2">Name register.</string>
+    <string name="Registro">User data</string>
+    <string name="inf_correcta">Valid Information</string>
+    <string name="Calcu_Edad">Age (Years old)</string>
+    <string name="fecha_invalida">Invalid year</string>
+    <string name="value">Enter value of 9 digits</string>
+    <string name="Zodiaco">Chinese Horoscope</string>
+    <string name="error1">Fill Everything Correctly</string>
+    <string name="error2">I don\'t care</string>
+    <string name="error3">You have to fill everything</string>
+    <string name="error4">There is a problem, a field is invalid</string>
+    <string name="error5">Invalid fields</string>
+    <string name="correo_ok">Valid email address</string>
+    <string name="correo_mal">Invalid email address</string>
+</resources>

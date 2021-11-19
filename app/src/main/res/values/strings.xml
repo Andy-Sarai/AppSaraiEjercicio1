@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AppSara_Formulario</string>
+    <string name="Form">Formulario</string>
+    <string name="Datos">Ingresar datos:</string>
+    <string name="Nom">Nombre.</string>
+    <string name="Fecha">Fecha de Nacimiento.</string>
+    <string name="Num">Número de cuenta.</string>
+    <string name="Correo">Correo electrónico.</string>
+    <string name="Val">Verificar información</string>
+    <string name="hint">Número</string>
+    <string name="ingresa_valor">Dato Inválido.</string>
+    <string name="requiere_inf">Información requerida</string>
+    <string name="requiere_nombre">Se requiere un nombre</string>
+    <string name="hint_name">Proporcionar nombre</string>
+    <string name="hint_date">Seleccionar fecha</string>
+    <string name="hint_email">Ingresar correo electrónico</string>
+    <string name="btnemail">Validar correo</string>
+    <string name="boton_enviar">Enviar</string>
+    <string name="hint_name2">Nombre registado.</string>
+    <string name="Registro">Datos del Usuario</string>
+    <string name="inf_correcta">Información válida</string>
+    <string name="Calcu_Edad">Edad (Años cumplidos)</string>
+    <string name="fecha_invalida">Año inválido</string>
+    <string name="value">Ingresa valor de 9 dígitos</string>
+    <string name="Zodiaco">Signo Zodiacal Chino</string>
+    <string name="error1">Rellena Todo Correctamente</string>
+    <string name="error2">No me interesa</string>
+    <string name="error3">Tienes que rellenar todo</string>
+    <string name="error4">Hay un problema,un campo es inválido</string>
+    <string name="error5">Campos inválidos</string>
+    <string name="correo_ok">Correo válido</string>
+    <string name="correo_mal">Correo inválido</string>
+</resources>
